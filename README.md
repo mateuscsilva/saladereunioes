@@ -12,7 +12,7 @@ Essa pasta contém o back-end da aplicação desenvolvido com Java e Spring-Boot
 
 ### Observações
 
-. Em cada uma das pastas contém um arquivo em markdown com mais detalhes específicos sobre a parte que aquela pasta é responsável
-. Execute primeiro o back-end e depois o front-end para rodar a aplicação completa
+- Em cada uma das pastas contém um arquivo em markdown com mais detalhes específicos sobre a parte que aquela pasta é responsável
+- Execute primeiro o back-end e depois o front-end para rodar a aplicação completa
 
 #### Mateus Carvalho da Silva
